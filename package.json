@@ -2,7 +2,7 @@
   "name": "btb-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cullenta.github.io/BTB Website/btb-site",
+  "homepage": "http://cullenta.github.io/bythebridge-react",
   "dependencies": {
     "@mantine/hooks": "^7.17.1",
     "cra-template": "1.2.0",
