@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BTB%20Website/btb-site/static/css/main.e3f9307a.css",
+    "main.js": "/BTB%20Website/btb-site/static/js/main.109913a4.js",
+    "static/js/488.bd9b1b18.chunk.js": "/BTB%20Website/btb-site/static/js/488.bd9b1b18.chunk.js",
+    "static/media/storefront.png": "/BTB%20Website/btb-site/static/media/storefront.9c776e3b5c5471a4ba96.png",
+    "static/media/logo_white.png": "/BTB%20Website/btb-site/static/media/logo_white.6d775d9d05b8eb6e92aa.png",
+    "static/media/bythebridge.png": "/BTB%20Website/btb-site/static/media/bythebridge.ba156df57d0a0d5c5f3e.png",
+    "index.html": "/BTB%20Website/btb-site/index.html",
+    "main.e3f9307a.css.map": "/BTB%20Website/btb-site/static/css/main.e3f9307a.css.map",
+    "main.109913a4.js.map": "/BTB%20Website/btb-site/static/js/main.109913a4.js.map",
+    "488.bd9b1b18.chunk.js.map": "/BTB%20Website/btb-site/static/js/488.bd9b1b18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f9307a.css",
+    "static/js/main.109913a4.js"
+  ]
+}
